@@ -1,2 +1,2 @@
-# clase73-v2
-Clase 73, versión 2
+# Biblioteca digital-c73-boiler-plate
+Operación de manejo y función de elegibilidad añadidas
